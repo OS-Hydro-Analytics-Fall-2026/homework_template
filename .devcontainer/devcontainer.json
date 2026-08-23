@@ -17,7 +17,7 @@
 	      ]
 	    }
 	},
-	"postCreateCommand": "./${localWorkspaceFolderBasename}/postbuild.sh && git clone https://github.com/OS-Hydro-Analytics-Fall-2025/CourseMaterials25.git",
+	"postCreateCommand": "./${localWorkspaceFolderBasename}/postbuild.sh && git clone https://github.com/OS-Hydro-Analytics-Fall-2026/CourseMaterials26.git",
 	"customizations": {
 		"vscode": {
 			"extensions": [
